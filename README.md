@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryakantade
 - 👀 I’m interested in fishing
-- 🌱 I’m currently learning to love with cancer
+- 🌱 I’m currently raising my twins
 - 💞️ I’m looking to collaborate on anything that helps humanity
 - 📫 How to reach me : suryakantacse@gmail.com
 
