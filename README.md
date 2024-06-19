@@ -1,6 +1,6 @@
 # Hi there, I'm Surya K. De 👋
 
-I'm a passionate Tech Lead with expertise in designing and building robust infrastructures that operate seamlessly at scale. My career spans over several impactful roles where I've led teams and spearheaded projects from inception to successful deployment. I thrive on solving complex problems and optimizing systems for efficiency and reliability.
+Love to build applications that can scale rapidly. 
 
 ## About Me
 
