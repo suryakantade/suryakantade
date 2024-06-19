@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @suryakantade
-- 👀 I’m interested in solving complex problems
-- 🌱 I’m currently raising my twins
-- 💞️ I’m looking to collaborate on anything that helps humanity
-- 📫 How to reach me : suryakantacse@gmail.com
+# Hi there, I'm Surya K. De 👋
 
-<!---
-suryakantade/suryakantade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Tech Lead with expertise in designing and building robust infrastructures that operate seamlessly at scale. My career spans over several impactful roles where I've led teams and spearheaded projects from inception to successful deployment. I thrive on solving complex problems and optimizing systems for efficiency and reliability.
+
+## About Me
+
+- 🐟 I like my fish: either swimming happily in water or sizzling deliciously on my plate!
+- 📫 How to reach me: [laughingsuryalaughing@gmail.com](mailto:laughingsuryalaughing@gmail.com)
+- 😄 Pronouns: He/Him
+
+## Tech Stack
+
+### Languages and Frameworks
+Java, TypeScript, Golang, Python, NodeJS, NestJS, SpringBoot
+
+### Cloud Technologies
+AWS (EC2, Lambda, RDS, DynamoDB, Elasticsearch), Kubernetes, Helm, Docker, GitHub Actions, GitLab CI/CD, Jenkins
+
+### Databases
+MySQL, PostgreSQL, MongoDB, Redis
+
+### Messaging and Queues
+Kafka, SQS
+
+### Monitoring and Observability
+New Relic, Grafana, Prometheus, AWS CloudWatch
+
+## Hobbies
+
+- Cycling 🚴‍♂️
+- Fishing 🎣
+- Growing vegetables 🌱
+
+Let's connect and collaborate on projects that make a positive impact!
