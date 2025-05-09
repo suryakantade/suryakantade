@@ -5,7 +5,6 @@ Love to build applications that can scale rapidly.
 ## About Me
 
 - 🐟 I like my fish: either swimming happily in water or sizzling deliciously on my plate!
-- 📫 How to reach me: [laughingsuryalaughing@gmail.com](mailto:laughingsuryalaughing@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
