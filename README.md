@@ -13,7 +13,7 @@ Love to build applications that can scale rapidly.
 Java, TypeScript, Golang, Python, NodeJS, NestJS, SpringBoot
 
 ### Cloud Technologies
-AWS (EC2, Lambda, RDS, DynamoDB, Elasticsearch), Kubernetes, Helm, Docker, GitHub Actions, GitLab CI/CD, Jenkins
+AWS (EC2, Lambda, RDS, DynamoDB, Elasticsearch), Kubernetes, Helm, Docker, GitHub Actions, GitLab CI/CD, Jenkins, Terraform
 
 ### Databases
 MySQL, PostgreSQL, MongoDB, Redis
@@ -22,7 +22,7 @@ MySQL, PostgreSQL, MongoDB, Redis
 Kafka, SQS
 
 ### Monitoring and Observability
-New Relic, Grafana, Prometheus, AWS CloudWatch
+New Relic, Grafana, open telemetry, Prometheus, AWS CloudWatch
 
 ## Hobbies
 
